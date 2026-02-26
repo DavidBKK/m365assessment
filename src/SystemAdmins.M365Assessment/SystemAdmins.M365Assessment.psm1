@@ -1,4 +1,4 @@
-# Variable for script path.
+##### Variable for script path.
 [string]$scriptPath = '';
 
 # If the script is running in the ISE, use the current file path.
